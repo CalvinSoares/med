@@ -38,7 +38,7 @@ export default function Login() {
               <a href="#" className="text-blue-400 text-sm font-bold">Perdeu a senha?</a>  
           </div>
           <div className="mt-3">
-              <p className="text-black text-sm">Novo aqui?<a href="./Cadastro" className="text-blue-700 text-base font-bold font-mono ml-4">   CRIAR CONTA</a></p>
+              <p className="text-black text-sm">Novo aqui?<a href="./Registro" className="text-blue-700 text-base font-bold font-mono ml-4">   CRIAR CONTA</a></p>
           </div>
 
 
